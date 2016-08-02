@@ -1,0 +1,6 @@
+Raspberry Pi 2 Raspbian Jessie Router WiFi Hotspot
+
+So I was in Sweden for exchange last semester, and my accommodation only came with a single LAN cable. I didn't have a WiFi router with me, so I decided to take the advice of my senior Jeremias and implement a router with my Raspberry Pi 2.
+
+I documented the steps below for future reference and to help those who may be seeking to do the same. Most of the older guides are outdated and a few things have changed with Raspbian Jessie, so I believe that this will be helpful.
+
